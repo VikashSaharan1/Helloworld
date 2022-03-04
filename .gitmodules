@@ -1,0 +1,3 @@
+[submodule "php-ds"]
+	path = php-ds
+	url = https://github.com/VikashSaharan1/php-ds
